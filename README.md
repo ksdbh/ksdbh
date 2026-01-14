@@ -1,24 +1,61 @@
-## 👋 Hi, I’m Sean Hayes  
+# Hi, I'm Sean Hayes
 
-I’m a Software Engineer based in Waxhaw, NC with a background that blends engineering with intelligence analysis. These days I’m building and deploying scalable Java/Spring applications at General Dynamics, where reliability and security aren’t just nice-to-haves—they’re mission-critical.  
+Software Engineer based in Waxhaw, NC, building secure, reliable systems in mission-critical environments. I work primarily with Java and Spring, with a strong interest in cloud-native architectures and DevOps practices.
 
-### 🔭 What I’m working on  
-Right now, I’m focused on streamlining development with GitLab CI/CD pipelines and making sure the systems I design are fault-tolerant and secure enough for classified environments.  
+---
 
-### 🤝 What I’d love to collaborate on  
-I’m always excited to team up on projects involving cloud-native architectures—especially with AWS. I thrive in cross-functional settings where new ideas can translate quickly into working solutions.  
+## What I'm focused on
 
-### 🌱 What I’m learning  
-I’m expanding my DevOps toolkit by getting deeper into Kubernetes, and I’ve recently started exploring Grafana to sharpen how I visualize and monitor complex systems.  
+- Designing and shipping scalable Java/Spring services in classified and high-security environments  
+- Streamlining delivery with GitLab CI/CD pipelines and automated quality gates  
+- Hardening systems for reliability, observability, and security from day one  
 
-### 💡 Let’s talk about  
+---
+
+## How I work
+
+- **Engineering mindset:** I care about clean, testable code and reproducible builds  
+- **Ops-aware:** I think about deployment, monitoring, and failure modes while designing features  
+- **Collaborative:** I enjoy pairing with teammates, reviewing code, and iterating quickly on feedback  
+
+---
+
+## Currently exploring
+
+- Kubernetes and container orchestration for scalable, resilient services  
+- Grafana and related tooling to improve visibility into complex, distributed systems  
+- Evolving CI/CD pipelines to support faster feedback and safer releases  
+
+---
+
+## Topics I enjoy discussing
+
 - Test-driven development (TDD) and CI/CD best practices (Jenkins, GitLab, etc.)  
-- Building scalable microservices with Java & Spring Boot  
-- Transitioning from network engineering into software development  
+- Building and operating microservices with Java & Spring Boot  
+- Architecting secure systems for sensitive and classified environments  
+- Making the jump from networking/infrastructure into software engineering  
 
-### ⚡ A little about me  
-Before stepping into software engineering, I served as an Intelligence Analyst in the U.S. Navy. That experience taught me how to break down complex problems, analyze data under pressure, and bring a unique operational perspective to engineering challenges.  
+---
 
+## A bit of background
+
+Before software engineering, I served as an Intelligence Analyst in the U.S. Navy.  
+That experience trained me to:
+
+- Break down ambiguous, high-stakes problems into actionable pieces  
+- Analyze data under pressure and communicate clearly to decision-makers  
+- Bring an operational perspective to how systems are designed, deployed, and used  
+
+That mix of operational experience and engineering helps me design systems that not only work in theory, but hold up in real-world conditions.
+
+---
+
+## Connect
+
+- GitHub: you're already here  
+- LinkedIn / Email: see the contact details on my GitHub profile  [![GitHub Pages]](https://ksdbh.github.io/) 
+
+If you’re working on something in the Java/Spring, cloud-native, or DevOps space and think I could help, I’m always open to a conversation.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sean-hayes-8015b277) 
 
